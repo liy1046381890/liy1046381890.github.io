@@ -1,3 +1,8 @@
+---
+layout: default
+title: index
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/liy1046381890/liy1046381890.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,13 +40,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-<iframe
-  frameborder="no"
-  border="0"
-  marginwidth="0"
-  marginheight="0"
-  width="330"
-  height="86"
-  src="//music.163.com/outchain/player?type=2&id=27836172&auto=0&height=66"
-></iframe>
